@@ -1,4 +1,4 @@
-<h1 align="center" style="background-image: url('./your-background-image.jpg'); background-size: cover; background-position: center; padding: 20px;">
+<h1 align="center" style="background-image: url('./windows-xp-bliss-4k-lu-1920x1080.jpg'); background-size: cover; background-position: center; padding: 20px;">
   Welcome to Graham's GitHub 
   <img src="./pepega-hackermans.gif" alt="Hackermans GIF" width="100" height="100"/>
 </h1>
