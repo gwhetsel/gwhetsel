@@ -15,7 +15,8 @@
 </div>
 
 <h3 align="center">Welcome to my page where I like to break and fix things!</h3>
-(https://github.com/user-attachments/assets/afbebd4f-8d6b-4e35-b956-fc240fc57e70)
+![pepega-hackermans](https://github.com/user-attachments/assets/680ac388-a641-40fa-97ae-12b9de51b42e)
+
 
 <br/>
 
