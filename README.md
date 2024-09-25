@@ -19,7 +19,7 @@
  🧠 I’m currently learning **HTML, Javascript, and CSS**
 
 💡 I am passionate about:
-<ul align="center">
+<ul>
   <li><strong>Computer Graphics</strong></li>
   <li><strong>Web Programming</strong></li>
   <li><strong>App Development</strong></li>
