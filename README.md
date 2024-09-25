@@ -13,6 +13,10 @@
 
 <br>
 
+<img src="./pepega-hackermans.gif" alt="Hackermans GIF" width="100" height="100"/>
+
+<br>
+
 <div align="left">
  
  💻 I am a Computer Science student at the **University of Georgia**
