@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="./pepega-hackermans.gif" alt="Hackermans GIF" width="100" height="100"/>
+<img align="center" src="./pepega-hackermans.gif" alt="Hackermans GIF" width="100" height="100"/>
 
 <br>
 
