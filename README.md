@@ -1,4 +1,4 @@
-<h1 align="center">Hello, My Name is Graham!<img src="./pepega-hackermans.gif" alt="Hackermans GIF" width="250" height="250"/></h1>
+<h1 align="center">Hello, My Name is Graham!<img src="./pepega-hackermans.gif" alt="Hackermans GIF" width="50" height="50"/></h1>
 
 <div align="center"> 
   <a href="mailto:gwhetsel2020@gmail.com">
@@ -11,8 +11,6 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
-
-<p align="center"><img src="./pepega-hackermans.gif" alt="Hackermans GIF" width="250" height="250"/></p>
 
 <div align="left">
  
