@@ -15,8 +15,7 @@
 </div>
 
 <h3 align="center">Welcome to my page where I like to break and fix things!</h3>
-<iframe src="https://giphy.com/embed/tJYKljnvycwMqYoAut" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-tJYKljnvycwMqYoAut">via GIPHY</a></p>
-
+![pepega-hackermans](https://github.com/user-attachments/assets/e98ca2c4-3b67-420f-b962-b9751ba8963b)
 <div align="left">
  
  💻 I am a Computer Science student at the **University of Georgia**
