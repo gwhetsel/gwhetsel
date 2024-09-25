@@ -37,11 +37,11 @@
 <h2 align="center">⚒️ Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <h1 align="center"> Languages </h1>
+    <h3 align="center"> Languages </h3>
     <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,html,css,js,lua" />
-    <h1 align="center"> Frameworks/Libraries </h1>
+    <h3 align="center"> Frameworks/Libraries </h3>
     <img src="https://skillicons.dev/icons?i=nodejs,threejs,reactjs" />
-    <h1 align="center"> Software </h1>
+    <h3 align="center"> Software </h3>
     <img src="https://skillicons.dev/icons?i=git,vscode,webstorm,eclipse,emacs,unity,unreal,blender" />
     <br>
 </div>
