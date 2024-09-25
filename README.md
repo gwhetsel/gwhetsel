@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+My+Name+Is+Graham!;" />
+    <img src="Welcome to my Page, My name is Graham!" />
 </h1>
 
 <div align="center"> 
@@ -15,8 +15,6 @@
 </div>
 
 <p align="center"><img src="./pepega-hackermans.gif" alt="Hackermans GIF" width="250" height="250"/></p>
-
-<h3 align="center">Welcome to my page where I like to break and fix things!</h3>
 
 <div align="left">
  
