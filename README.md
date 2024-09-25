@@ -15,7 +15,8 @@
 </div>
 
 <h3 align="center">Welcome to my page where I like to break and fix things!</h3>
-<p align="center"><img src="<div class="tenor-gif-embed" data-postid="20626446" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/pepega-hackermans-hacking-pepe-gif-20626446">Pepega Hackermans Sticker</a>from <a href="https://tenor.com/search/pepega-stickers">Pepega Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
+
+
 <div align="left">
  
  💻 I am a Computer Science student at the **University of Georgia**
