@@ -39,7 +39,7 @@
 <div align="center">
     <h3 align="center"> Languages </h3>
     <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,html,css,js,lua" />
-    <h3 align="center"> Frameworks/Libraries </h3>
+    <h3 align="center"> Frameworks </h3>
     <img src="https://skillicons.dev/icons?i=nodejs,threejs,reactjs" />
     <h3 align="center"> Software </h3>
     <img src="https://skillicons.dev/icons?i=git,vscode,webstorm,eclipse,emacs,unity,unreal,blender" />
