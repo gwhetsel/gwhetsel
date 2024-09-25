@@ -13,7 +13,7 @@
 
 <br></br>
 
-<div align="left">
+<div align="center">
  
  💻 I am a Computer Science student at the **University of Georgia**
  
