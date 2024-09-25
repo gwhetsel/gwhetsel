@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
  
  💻 I am Computer Science student at the **University of Georgia**
  
