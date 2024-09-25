@@ -22,7 +22,7 @@
 
 <div align="left">
  
- 💻 I am Computer Science student at the **University of Georgia**
+ 💻 I am a Computer Science student at the **University of Georgia**
  
  🧠 I’m currently learning **HTML, Javascript, and CSS**
 
