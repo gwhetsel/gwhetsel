@@ -1,4 +1,7 @@
-<h1 align="center">Welcome to Graham's GitHub <img src="./pepega-hackermans.gif" alt="Hackermans GIF" width="100" height="100"/></h1>
+<h1 align="center" style="background-image: url('./your-background-image.jpg'); background-size: cover; background-position: center; padding: 20px;">
+  Welcome to Graham's GitHub 
+  <img src="./pepega-hackermans.gif" alt="Hackermans GIF" width="100" height="100"/>
+</h1>
 <br>
 <div align="center"> 
   <a href="mailto:gwhetsel2020@gmail.com">
