@@ -53,10 +53,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api?username=gwhetsel&count_private=true&show_icons=true&theme=green&rank_icon=github&border_radius=10" alt="Github Stats" />
+  <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api?username=gwhetsel&count_private=true&show_icons=true&theme=blue-green&rank_icon=github&border_radius=10" alt="Github Stats" />
   <br/>
-  <img width=500 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gwhetsel&count_private=true&show_icons=true&theme=green&rank_icon=github&border_radius=10" alt="Streak Stats"/>
-  <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=gwhetsel&hide=HTML&langs_count=8&layout=compact&theme=green&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Language Stats" />
+  <img width=500 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gwhetsel&count_private=true&show_icons=true&theme=blue-green&rank_icon=github&border_radius=10" alt="Streak Stats"/>
+  <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=gwhetsel&hide=HTML&langs_count=8&layout=compact&theme=blue-green&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Language Stats" />
 </div>
 
 <br/><br/>
