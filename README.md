@@ -18,16 +18,6 @@
  
  🧠 I’m currently learning **HTML, Javascript, and CSS**
 
-💡 I am passionate about:
-<ul>
-  <li><strong>Computer Graphics</strong></li>
-  <li><strong>Web Programming</strong></li>
-  <li><strong>App Development</strong></li>
-  <li><strong>Game Development</strong></li>
-  <li><strong>Virtual Reality</strong></li>
-  <li><strong>Augmented Reality</strong></li>
-</ul>
-
 💥 Fun fact **I also enjoy making music through FL Studio**
 
  </div>
