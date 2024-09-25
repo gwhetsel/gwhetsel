@@ -16,7 +16,6 @@
 
 <h3 align="center">Welcome to my page where I like to break and fix things!</h3>
 <iframe src="https://giphy.com/embed/tJYKljnvycwMqYoAut" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-tJYKljnvycwMqYoAut">via GIPHY</a></p>
-<br/>
 
 <div align="left">
  
