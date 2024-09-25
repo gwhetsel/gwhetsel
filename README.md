@@ -12,7 +12,7 @@
   </a>
 </div>
 
-<div align="center">
+<div align="left">
  
  💻 I am a Computer Science student at the **University of Georgia**
  
