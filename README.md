@@ -34,7 +34,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Tools ⚒️</h2>
+<h1 align="center">⚒️ Tools ⚒️</h1>
 <br/>
 <div align="center">
     <h3 align="center"> Languages </h3>
