@@ -12,14 +12,14 @@
   </a>
 </div>
 
-<div align="left">
+<div align="center">
  
  💻 I am a Computer Science student at the **University of Georgia**
  
  🧠 I’m currently learning **HTML, Javascript, and CSS**
 
 💡 I am passionate about:
-<ul>
+<ul align="center">
   <li><strong>Computer Graphics</strong></li>
   <li><strong>Web Programming</strong></li>
   <li><strong>App Development</strong></li>
