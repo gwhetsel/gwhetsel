@@ -1,5 +1,3 @@
-![Background Image](./windows-xp-bliss-4k-lu-1920x1080.jpg)
-
 <h1 align="center">
   Welcome to Graham's GitHub 
   <img src="./pepega-hackermans.gif" alt="Hackermans GIF" width="100" height="100"/>
