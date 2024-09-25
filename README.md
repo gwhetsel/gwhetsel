@@ -15,7 +15,9 @@
 </div>
 
 <h3 align="center">Welcome to my page where I like to break and fix things!</h3>
-<img src="./pepega-hackermans.gif" alt="Pepega Hackermans GIF" />
+
+<img src="./pepega-hackermans.gif" alt="Hackermans GIF" width="500" height="500"/>
+
 <div align="left">
  
  💻 I am a Computer Science student at the **University of Georgia**
