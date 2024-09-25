@@ -16,7 +16,7 @@
 
 <h3 align="center">Welcome to my page where I like to break and fix things!</h3>
 
-<img src="./pepega-hackermans.gif" alt="Hackermans GIF" width="500" height="500"/>
+<p align="center"><img src="./pepega-hackermans.gif" alt="Hackermans GIF" width="500" height="500"/></p>
 
 <div align="left">
  
