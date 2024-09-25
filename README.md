@@ -1,4 +1,4 @@
-<h1 align="center">Hello, My Name is Graham!<img src="./pepega-hackermans.gif" alt="Hackermans GIF" width="50" height="50"/></h1>
+<h1 align="center">Hello, My Name is Graham!  <img src="./pepega-hackermans.gif" alt="Hackermans GIF" width="50" height="50"/></h1>
 
 <div align="center"> 
   <a href="mailto:gwhetsel2020@gmail.com">
