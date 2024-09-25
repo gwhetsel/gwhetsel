@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="./pepega-hackermans.gif" alt="Hackermans GIF" width="100" height="100"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&weight=500&size=20&duration=3000&color=02F77A&background=FFFFFF2F&center=true&width=500&height=200&lines=Welcome+to+Graham's+GitHub" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&weight=500&size=50&duration=1000&pause=10&color=02F77A&background=00086400&center=true&width=1000&height=500&lines=%7C;%7C;Welcome+to+Graham's+GitHub" alt="Typing SVG" />
 </h1>
 
 <br>
