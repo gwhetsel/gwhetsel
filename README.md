@@ -16,11 +16,11 @@
 
 <div align="left">
  
- 💻 I am a Computer Science student at the **University of Georgia**
- 
- 🧠 I’m currently learning **HTML, Javascript, and CSS**
+ 💻 I am a 4th year Computer Science student at the **University of Georgia**
 
-💥 Fun fact **I also enjoy making music through FL Studio**
+ 🚀 I am currently working on an **E-Cinema Booking Website**
+ 
+ 🌱 I am currently learning **HTML, Javascript, and CSS**
 
  </div>
 
