@@ -1,5 +1,5 @@
 <h1 align="center">
-  Welcome to Graham's GitHub 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+Graham's+GitHub;" />
   <img src="./pepega-hackermans.gif" alt="Hackermans GIF" width="100" height="100"/>
 </h1>
 
