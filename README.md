@@ -15,7 +15,8 @@
 </div>
 
 <h3 align="center">Welcome to my page where I like to break and fix things!</h3>
-<div class="tenor-gif-embed" data-postid="20626446" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/pepega-hackermans-hacking-pepe-gif-20626446">Pepega Hackermans Sticker</a>from <a href="https://tenor.com/search/pepega-stickers">Pepega Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![pepega-hackermans](https://github.com/user-attachments/assets/afbebd4f-8d6b-4e35-b956-fc240fc57e70)
+
 <br/>
 
 <div align="left">
