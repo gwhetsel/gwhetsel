@@ -15,9 +15,7 @@
 </div>
 
 <h3 align="center">Welcome to my page where I like to break and fix things!</h3>
-![pepega-hackermans](https://github.com/user-attachments/assets/680ac388-a641-40fa-97ae-12b9de51b42e)
-
-
+<iframe src="https://giphy.com/embed/tJYKljnvycwMqYoAut" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-tJYKljnvycwMqYoAut">via GIPHY</a></p>
 <br/>
 
 <div align="left">
