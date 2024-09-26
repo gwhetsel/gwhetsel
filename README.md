@@ -11,7 +11,8 @@
 </div>
 
 <br>
-
+[![Years Badge](https://badges.pufler.dev/years/gwhetsel)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/gwhetsel)](https://badges.pufler.dev)
 ![Visitor Count](https://profile-counter.glitch.me/{gwhetsel}/count.svg)
 
 <h1 align="center">
