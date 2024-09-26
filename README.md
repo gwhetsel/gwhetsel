@@ -22,13 +22,13 @@
 
 <br>
 
-<h2 align="center"> 🚀 Current Ventures 🚀 </h2>
+<h2 align="center"> 🚀 Ventures 🚀 </h2>
 <div align="left">
   
-  <ul> <h3> Projects </h3>
+  <ul> <h3> Current Projects </h3>
     <li> E-Cinema Booking Website </li>
   </ul>
-  <ul> <h3> Languages </h3>
+  <ul> <h3> Current Languages </h3>
     <li> HTML </li>
     <li> Javascript </li>
     <li> CSS </li>
