@@ -22,7 +22,7 @@
 <h2 align="center"> 🚀 Current Ventures 🚀 </h2>
 <div align="left">
   
-  <ul> Projects
+  <ul> <h3> Projects </h3>
     <li> E-Cinema Booking Website </li>
   </ul>
   <h3> Languages </h3>
