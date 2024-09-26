@@ -1,3 +1,4 @@
+![Visitor Count](https://profile-counter.glitch.me/{gwhetsel}/count.svg)
 <div align="center"> 
   <a href="mailto:gwhetsel2020@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
