@@ -19,7 +19,7 @@
 </div>
 
 <br>
-<h2 align="center"> 🚀 Current Ventures 🚀
+<h2 align="center"> 🚀 Current Ventures 🚀 </h2>
 <div align="left">
   
   <ul> Projects
