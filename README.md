@@ -25,8 +25,11 @@
   <ul> <h3> Projects </h3>
     <li> E-Cinema Booking Website </li>
   </ul>
-  <h3> Languages </h3>
-  🌱 I am currently learning **HTML, Javascript, and CSS**
+  <ul> <h3> Languages </h3>
+    <li> HTML </li>
+    <li> Javascript </li>
+    <li> CSS </li>
+  </ul>
 
 </div>
 
