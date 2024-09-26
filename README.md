@@ -3,7 +3,7 @@
   <img src="./pepega-hackermans.gif" alt="Hackermans GIF" width="250" height="250"/>
 </h1>
 <div align="center">
-<h1>💻 CS Student @ University of Georgia</h1>
+<h1> CS Student at the University of Georgia </h1>
 </div>
 <br>
 <div align="center"> 
