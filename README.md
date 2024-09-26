@@ -1,4 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/{gwhetsel}/count.svg)
 <div align="center"> 
   <a href="mailto:gwhetsel2020@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -12,6 +11,8 @@
 </div>
 
 <br>
+
+![Visitor Count](https://profile-counter.glitch.me/{gwhetsel}/count.svg)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&weight=500&size=50&duration=50&pause=100&color=02F77A&background=5A5A5A2F&center=true&width=1000&height=250&lines=%7C;%7C;W%7C;We%7C;Wel%7C;Welc%7C;Welco%7C;Welcom%7C;Welcome%7C;Welcome+%7C;Welcome+T%7C;Welcome+To%7C;Welcome+To+%7C;Welcome+To+Gr%7C;Welcome+To+Gra%7C;Welcome+To+Grah%7C;Welcome+To+Graha%7C;Welcome+To+Graham%7C;Welcome+To+Graham'%7C;Welcome+To+Graham's%7C;Welcome+To+Graham's+%7C;Welcome+To+Graham's+G%7C;Welcome+To+Graham's+Gi%7C;Welcome+To+Graham's+Git%7C;Welcome+To+Graham's+GitH%7C;Welcome+To+Graham's+GitHu%7C;Welcome+To+Graham's+GitHub%7C" alt="Typing SVG" />
