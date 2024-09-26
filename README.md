@@ -21,13 +21,14 @@
 <br>
 <h2 align="center"> 🚀 Current Ventures 🚀
 <div align="left">
+  
+  <ul> Projects
+    <li> E-Cinema Booking Website </li>
+  </ul>
+  <h3> Languages </h3>
+  🌱 I am currently learning **HTML, Javascript, and CSS**
 
-<h3> Projects </h3>
- 🚀 I am currently working on an **E-Cinema Booking Website**
- <h3> Languages </h3>
- 🌱 I am currently learning **HTML, Javascript, and CSS**
-
- </div>
+</div>
 
  <hr/>
  
