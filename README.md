@@ -19,11 +19,12 @@
 </div>
 
 <br>
-
+<h2 align="center"> 🚀 Current Ventures 🚀
 <div align="left">
 
+<h3> Projects </h3>
  🚀 I am currently working on an **E-Cinema Booking Website**
- 
+ <h3> Languages </h3>
  🌱 I am currently learning **HTML, Javascript, and CSS**
 
  </div>
