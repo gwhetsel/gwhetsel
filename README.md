@@ -3,6 +3,8 @@
   <img src="./pepega-hackermans.gif" alt="Hackermans GIF" width="250" height="250"/>
 </h1>
 
+<h1>💻 I am a 4th year Computer Science student at the **University of Georgia**</h1>
+
 <br>
 <div align="center"> 
   <a href="mailto:gwhetsel2020@gmail.com">
@@ -19,8 +21,6 @@
 <br>
 
 <div align="left">
- 
- 💻 I am a 4th year Computer Science student at the **University of Georgia**
 
  🚀 I am currently working on an **E-Cinema Booking Website**
  
