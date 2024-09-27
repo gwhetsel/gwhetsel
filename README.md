@@ -33,12 +33,6 @@
     <li> E-Cinema Booking Website </li>
     <li> 3D Portfolio </li>
   </ul>
-  <ul> <h3> Languages/Frameworks </h3>
-    <li> HTML </li>
-    <li> Javascript </li>
-    <li> CSS </li>
-    <li> Three.js </li>
-  </ul>
 
 </div>
 
