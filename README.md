@@ -26,7 +26,7 @@
 
 <br>
 
-<h2 align="center">🚀 What I'm Working On Right Now 🚀</h2>
+<h2 align="center">🚀 Current Ventures 🚀</h2>
 <div align="left">
   
   <ul> <h3> Projects </h3>
