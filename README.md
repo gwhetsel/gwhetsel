@@ -26,16 +26,18 @@
 
 <br>
 
-<h2 align="center">🚀 Ventures 🚀</h2>
+<h2 align="center">🚀 What I'm Working On Right Now 🚀</h2>
 <div align="left">
   
-  <ul> <h3> Current Projects </h3>
+  <ul> <h3> Projects </h3>
     <li> E-Cinema Booking Website </li>
+    <li> 3D Portfolio </li>
   </ul>
-  <ul> <h3> Current Languages </h3>
+  <ul> <h3> Languages/Frameworks </h3>
     <li> HTML </li>
     <li> Javascript </li>
     <li> CSS </li>
+    <li> Three.js </li>
   </ul>
 
 </div>
