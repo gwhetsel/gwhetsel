@@ -29,9 +29,13 @@
 <h2 align="center">🚀 Updates 🚀</h2>
 <div align="left">
   
-  <ul> <h3> What I'm Working On </h3>
+  <ul> <h3> IP </h3>
     <li> E-Cinema Booking Website </li>
-    <li> 3D Portfolio </li>
+    <li> 3D Developer Portfolio </li>
+  </ul>
+
+  <ul> <h3> Completed </h3>
+    <li> Personal CV Website </li>
   </ul>
 
 </div>
