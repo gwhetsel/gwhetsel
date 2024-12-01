@@ -31,7 +31,8 @@
   
   <ul> <h3> Projects I'm Working On </h3>
     <li> E-Cinema Booking Website </li>
-    <li> 3D Developer Portfolio </li>
+    <li> Car Listing Website </li>
+    <li> Unity Procedurally Generated Terrain </li>
   </ul>
 
 </div>
