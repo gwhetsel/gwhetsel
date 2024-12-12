@@ -36,6 +36,7 @@
   </ul>
   
   <ul> <h3> Projects I'm Working On </h3>
+    <li> Developer Portfolio in Three.js </li>
   </ul>
 
 </div>
