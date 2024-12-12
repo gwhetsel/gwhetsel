@@ -29,10 +29,13 @@
 <h2 align="center">🚀 Updates 🚀</h2>
 <div align="left">
   
-  <ul> <h3> Projects I'm Working On </h3>
+  <ul> <h3> Projects Completed </h3>
     <li> E-Cinema Booking Website Full Stack</li>
     <li> Car Listing Website Full Stack</li>
     <li> Procedural Music Visualizer in Three.js </li>
+  </ul>
+  
+  <ul> <h3> Projects I'm Working On </h3>
   </ul>
 
 </div>
