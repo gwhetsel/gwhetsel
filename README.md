@@ -60,14 +60,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🧩 Contributions 🧩</h2>
-  <br>
-  <img alt="Snake" src="https://raw.githubusercontent.com/gwhetsel/gwhetsel/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 <hr/>
 
 <h2 align="center">📈 Stats 📈</h2>
