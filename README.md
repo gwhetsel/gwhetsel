@@ -36,9 +36,7 @@
   </ul>
   
   <ul> <h3> Projects I'm Working On </h3>
-    <li> Developer Portfolio in Three.js </li>
-    <li> Korean BBQ Simulator Game in Unity </li>
-    <li> Live Streaming Web Application </li>
+    <li> Networking App </li>
   </ul>
 
 </div>
