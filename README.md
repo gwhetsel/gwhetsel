@@ -45,13 +45,13 @@
 <br/>
 <div align="left">
     <h3> Languages </h3>
-    <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,html,css,js,ts,lua" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,cs,cpp,html,css,js,ts,lua" />
     <h3> Frameworks </h3>
     <img src="https://skillicons.dev/icons?i=nodejs,threejs,react" />
     <h3> Software </h3>
     <img src="https://skillicons.dev/icons?i=git,vscode,webstorm,eclipse,emacs,unity,unreal,blender" />
     <h3> Databases </h3>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgre" />
     <br>
 </div>
 
