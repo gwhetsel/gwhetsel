@@ -34,7 +34,7 @@
   </ul>
   
   <ul> <h3> Projects I'm Working On </h3>
-    <li> Networking App </li>
+    <li> Event Social App </li>
   </ul>
 
 </div>
