@@ -51,7 +51,7 @@
     <h3> Software </h3>
     <img src="https://skillicons.dev/icons?i=git,vscode,webstorm,eclipse,emacs,unity,unreal,blender" />
     <h3> Databases </h3>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgre" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
     <br>
 </div>
 
