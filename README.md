@@ -35,7 +35,7 @@
   </ul>
   
   <ul> <h3> Projects I'm Working On </h3>
-    <li> Christian Relationship App </li>
+    <li> Relationship App </li>
   </ul>
 
 </div>
