@@ -31,10 +31,11 @@
     <li> E-Cinema Booking Website Full Stack</li>
     <li> Car Listing Website Full Stack</li>
     <li> Procedural Music Visualizer in Three.js </li>
+    <li> Weather Broadcast Demo </li>
   </ul>
   
   <ul> <h3> Projects I'm Working On </h3>
-    <li> Event Social App </li>
+    <li> Christian Relationship App </li>
   </ul>
 
 </div>
