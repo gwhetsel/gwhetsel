@@ -1,5 +1,5 @@
 <div align="center"> 
-  <a href="mailto:gwhetsel2020@gmail.com">
+  <a href="mailto:grahamwhetsel@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/grahamwhetsel/" target="_blank">
