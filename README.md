@@ -34,7 +34,7 @@
   </ul>
   
   <ul> <h3> Projects I'm Working On </h3>
-    <li> ASCEND Game (Unity) </li>
+    <li> Korean BBQ Restaurant Simulator (Unity) </li>
   </ul>
 
 </div>
