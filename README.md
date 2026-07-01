@@ -29,12 +29,12 @@
   
   <ul> <h3> Recent Completed Projects </h3>
     <li> Weather Broadcast Demo (Unreal Engine) </li>
-    <li> Relationship App </li>
+    <li> Rooted App </li>
     
   </ul>
   
   <ul> <h3> Projects I'm Working On </h3>
-    <li> Korean BBQ Restaurant Simulator (Unity) </li>
+    <li> Multiplayer Social Deduction Game (Unity) </li>
   </ul>
 
 </div>
